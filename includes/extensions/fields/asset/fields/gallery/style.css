@@ -1,0 +1,14 @@
+
+
+#twoj_gallery_field_images .text-images{
+	padding-top: 15px!important;
+	margin-top: 15px;
+	padding-bottom: -15px !important;
+	margin-bottom: -25px !important;
+}
+
+table.compat-attachment-fields tr.compat-field-twoj_gallery_line,
+table.compat-attachment-fields tr.compat-field-twoj_gallery_type_link,
+table.compat-attachment-fields tr.compat-field-twoj_gallery_link{
+	display:block !important;
+}
